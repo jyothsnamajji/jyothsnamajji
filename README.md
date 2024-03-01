@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jyothsnamajji
 - 👀 I’m interested in python programming and automating repetetive tasks 
 - 🌱 I’m currently learning python 3 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on jyothsna.majji22@gmail.com
 
 <!---
